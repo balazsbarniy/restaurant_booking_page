@@ -1,2 +1,2 @@
-# restaurant_booking_page
-restaurant booking page. html,css,pyton,django
+## Design user interface using HTML and CSS
+## 
